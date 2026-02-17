@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Haffer XH Custom';
+  src: url('https://ridecircuit.retool.com/api/file/790c2598-4bd7-4157-8547-299f672574d2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Haffer XH Custom';
+  src: url('https://raw.githubusercontent.com/ianwareham-dot/Haffer/main/HafferXH-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Haffer XH Custom';
+  src: url('https://raw.githubusercontent.com/ianwareham-dot/Haffer/main/HafferXH-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Stadt';
+  src: url('https://raw.githubusercontent.com/ianwareham-dot/Haffer/main/Stadt/Stadt-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
